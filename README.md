@@ -28,7 +28,8 @@ Para a criação dessa aplicação foram utilizados as seguintes tecnologias:
 - [Express](https://expressjs.com/);
 - [Axios](https://github.com/axios/axios);
 - [ReactJS](https://reactjs.org);
-- [React Native](https://facebook.github.io/react-native/).
+- [React Native](https://facebook.github.io/react-native/);
+- [Expo](https://github.com/expo/).
 <br>
 
 ## Instalação
