@@ -10,8 +10,6 @@
   <a href="#Descrição-">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation-wrench">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#test-heavy_check_mark">Test</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing-">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -28,5 +26,12 @@ Para a criação dessa aplicação foram utilizados as seguintes tecnologias:
 - [Express](https://expressjs.com/);
 - [Axios](https://github.com/axios/axios);
 - [ReactJS](https://reactjs.org);
-- [React Native](https://facebook.github.io/react-native/);
+- [React Native](https://facebook.github.io/react-native/).
 <br>
+## Descrição
+
+
+
+```sh
+npm install
+```
