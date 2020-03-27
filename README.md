@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#Descrição-">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Teste">Teste</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -32,8 +32,17 @@ Para a criação dessa aplicação foram utilizados as seguintes tecnologias:
 - [Expo](https://github.com/expo/).
 <br>
 
-## Instalação
+## Teste
 
+Para testar a aplicação, basta clonar esse repositório execultando o comando:
 ```sh
-npm install
+https://github.com/georgaugusto/seja-um-heroi.git
 ```
+
+Em seguida acessar a basta backend executar o comando:
+```sh
+npm start
+```
+
+
+
