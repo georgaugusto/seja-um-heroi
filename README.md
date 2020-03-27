@@ -19,17 +19,14 @@
 ## Descrição
 
 A aplicação **Seja um Herói** é direcionada a auxiliar ONGs a encontrar financiadores (Heróis) que possam custear um contratempo especifico, conectando pessoas e propósitos. Foi um projeto feito em conjunto com [Rocketseat](https://github.com/Rocketseat) :rocket: na Semana OmniStack 11.0.
-
 <br>
-
 ## Tecnologias
 
 Para a criação dessa aplicação foram utilizados as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/) - JavaScript runtime
-- [Express](https://expressjs.com/) - Server Framework
-- [Axios](https://github.com/axios/axios) - Promise-based HTTP requests
-- [ReactJS](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-
+- [Node.js](https://nodejs.org/en/);
+- [Express](https://expressjs.com/);
+- [Axios](https://github.com/axios/axios);
+- [ReactJS](https://reactjs.org);
+- [React Native](https://facebook.github.io/react-native/);
 <br>
