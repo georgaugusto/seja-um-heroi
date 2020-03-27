@@ -18,9 +18,7 @@
 
 ## Descrição
 
-**Seija um Herói** connects people who waht to help NGOs, it was a project made on [Rocketseat](https://github.com/Rocketseat)'s #11 OmniStack Week.
-
-:rocket:
+**Seja um Herói** A aplicação seja um Herói é direcionada a auxiliar ONGs a encontrar financiadores (Heróis) que possam custear um contratempo especifico, conectando pessoas e propósitos. Foi um projeto feito em [Rocketseat](https://github.com/Rocketseat) Semana OmniStack 11.0 :rocket:
 
 <br>
 
