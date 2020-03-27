@@ -24,8 +24,12 @@ A aplicação **Seja um Herói** é direcionada a auxiliar ONGs a encontrar fina
 
 ## Tecnologias
 
-- [Node.js](https://nodejs.org/en/);
-- [ReactJS](https://reactjs.org);
-- [React Native](https://facebook.github.io/react-native/).
+Para a criação dessa aplicação foram utilizados as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/) - JavaScript runtime
+- [Express](https://expressjs.com/) - Server Framework
+- [Axios](https://github.com/axios/axios) - Promise-based HTTP requests
+- [ReactJS](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
 
 <br>
