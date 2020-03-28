@@ -15,6 +15,7 @@
 <br>
 <p align="center">
   <img src="frontend/src/assets/91374.png" width="400px"/>
+  <img src="frontend/src/assets/81688.png" width="100px"/>
 </p>
 <br>
 
