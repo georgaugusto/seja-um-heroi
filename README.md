@@ -49,4 +49,4 @@ npm install
 npm start
 ```
 
-A aplicação Web já estará funcionando, agora para testar a versão mobile acessar a pasta mobile e execultar o comando: ``` npm start ```
+Agora para testar a versão mobile acessar a pasta mobile e execultar o comando: ``` npm start ```
