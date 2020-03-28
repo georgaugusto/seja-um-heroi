@@ -51,4 +51,4 @@ npm install
 npm start
 ```
 
-Agora para testar a versão mobile acessar a pasta mobile e execultar o comando: ``` npm start ```
+Agora para testar a versão mobile, é preciso abaixar um aplicativo chamado Expo na loja de aplicativos do seu smartphone, após isso, acessar a pasta mobile e execultar o comando: ``` npm start ```
