@@ -13,7 +13,9 @@
 </p>
 
 <br>
-  <img align="center" src="frontend/src/assets/91374.png" width="400px"/>
+<p align="center">
+  <img src="frontend/src/assets/91374.png" width="400px"/>
+</p>
 <br>
 
 ## Descrição
