@@ -13,7 +13,7 @@
 </p>
 
 <br>
-  <img src="frontend/src/assets/91374.png" width="400px"/>
+  <img align="center" src="frontend/src/assets/91374.png" width="400px"/>
 <br>
 
 ## Descrição
@@ -41,7 +41,7 @@ Para testar a aplicação, basta clonar esse repositório execultando o comando:
 https://github.com/georgaugusto/seja-um-heroi.git
 ```
 
-Em seguida acessar a pasta backend e executar o comando: ```sh npm start ```
+Em seguida acessar a pasta backend e executar o comando: ``` npm start ```
 
 repetir o passo para acessar a pasta frontend e também executar os comando:
 ```sh
@@ -49,4 +49,4 @@ npm install
 npm start
 ```
 
-A aplicação Web já estará funcionando, agora para testar a versão mobile acessar a pasta mobile e execultar o comando: ```sh npm start ```
+A aplicação Web já estará funcionando, agora para testar a versão mobile acessar a pasta mobile e execultar o comando: ``` npm start ```
