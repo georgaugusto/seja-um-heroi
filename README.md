@@ -14,7 +14,7 @@
 
 <br>
 
-  <img src="frontend/src/assets/91374.png" width="300px"/>
+  <img src="frontend/src/assets/91374.png" width="400px"/>
 
 <br>
 ## Descrição
