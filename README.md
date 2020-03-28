@@ -41,22 +41,12 @@ Para testar a aplicação, basta clonar esse repositório execultando o comando:
 https://github.com/georgaugusto/seja-um-heroi.git
 ```
 
-Em seguida acessar a pasta backend e executar o comando:
-```sh
-cd backend
-npm start
-```
+Em seguida acessar a pasta backend e executar o comando: ```sh npm start ```
 
-repetir o passo para acessar a pasta frontend e também executar o comando:
+repetir o passo para acessar a pasta frontend e também executar os comando:
 ```sh
-cd frontend
 npm install
 npm start
 ```
 
-A aplicação Web já estará funcionando, agora para testar a versão mobile acessar a pasta mobile e execultar o comando:
-```sh
-cd mobile
-npm install
-npm start
-```
+A aplicação Web já estará funcionando, agora para testar a versão mobile acessar a pasta mobile e execultar o comando: ```sh npm start ```
