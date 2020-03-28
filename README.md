@@ -13,10 +13,9 @@
 </p>
 
 <br>
-
   <img src="frontend/src/assets/91374.png" width="400px"/>
-
 <br>
+
 ## Descrição
 
 A aplicação **Seja um Herói** é direcionada a auxiliar ONGs a encontrar financiadores (Heróis) que possam custear um contratempo especifico, conectando pessoas e propósitos. Foi um projeto feito em conjunto com [Rocketseat](https://github.com/Rocketseat) :rocket: na Semana OmniStack 11.0.
