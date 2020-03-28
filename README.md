@@ -14,8 +14,8 @@
 
 <br>
 <p align="center">
-  <img src="frontend/src/assets/91374.png" width="400px"/>
-  <img src="frontend/src/assets/81688.png" width="130px"/>
+  <img src="frontend/src/assets/91374.png" width="450px"/>
+  <img src="frontend/src/assets/81688.png" width="150px"/>
 </p>
 <br>
 
