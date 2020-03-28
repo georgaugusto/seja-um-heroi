@@ -13,6 +13,8 @@
 </p>
 
 <br>
+  <img src="frontend/src/assets/91374.png" width="400px"/>
+<br>
 
 ## Descrição
 
